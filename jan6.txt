@@ -1,0 +1,8 @@
+Problem:
+
+Given a string, return the first non-repeating character. If there are no non-repeating characters, return a space character.
+
+Example:
+
+Input: "leetcode"
+Output: "l" (because 'l' is the first non-repeating character in the string)

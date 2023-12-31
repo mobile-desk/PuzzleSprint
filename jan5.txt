@@ -1,0 +1,8 @@
+Problem:
+
+Given a list of integers, rearrange the elements in such a way that all the even numbers appear before all the odd numbers, without using extra space (in-place).
+
+Example:
+
+Input: [3, 1, 2, 4, 6, 5, 7, 8]
+Output: [2, 4, 6, 8, 3, 1, 5, 7] (even numbers appear before odd numbers)

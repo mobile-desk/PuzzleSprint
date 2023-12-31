@@ -1,0 +1,8 @@
+Problem:
+
+Given a list of integers, find the maximum product that can be obtained by multiplying any three integers.
+
+Example:
+
+Input: [1, 2, 3, 4]
+Output: 24 (the maximum product is obtained by multiplying 2, 3, and 4)
