@@ -1,0 +1,6 @@
+Problem:Given a string, determine if it's a palindrome or not. A palindrome is a word, phrase, 
+number, or other sequence of characters that reads the same forward and backward, ignoring spaces, 
+punctuation, and capitalization.
+
+Example:Input: "A man, a plan, a canal, Panama" Output: True (ignoring spaces and punctuation, the 
+string reads the same backward and forward)
