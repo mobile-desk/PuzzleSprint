@@ -1,0 +1,3 @@
+Problem:Given a string representing a sequence of moves in a 2D plane where L means to move left one unit, R means to move right one unit, U means to move up one unit, and D means to move down one unit, determine if the sequence returns the robot to its original starting position. The robot starts at (0,0).
+
+Example:Input: "UD" Output: True (the sequence UD brings the robot back to its starting position)
