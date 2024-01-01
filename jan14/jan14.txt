@@ -1,0 +1,1 @@
+Problem:Create a command-line application that generates a multiplication table for a given number provided by the user. The table should display the multiplication of the given number up to a specified range.For instance, if the user provides the number 5 and the range 3, the program should generate a multiplication table for 5 up to 5 * 3.
