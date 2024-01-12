@@ -1,0 +1,1 @@
+Write a command-line application that allows users to calculate the area of different geometric shapes. The program should prompt the user to choose a shape (e.g., circle, square, triangle) and then input the necessary parameters (e.g., radius, side lengths) to compute the area.
