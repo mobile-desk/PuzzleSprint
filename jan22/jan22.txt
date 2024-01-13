@@ -1,0 +1,1 @@
+Write a command-line application for a "Guess the Number" game. The program randomly generates a target number between a specified range (e.g., 1 to 100), and the user needs to guess the correct number. The program should provide feedback on whether the guess is too high, too low, or correct.
