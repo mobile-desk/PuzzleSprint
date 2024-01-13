@@ -1,0 +1,1 @@
+Create a command-line application that takes user input as text and converts it into speech. The program should use a text-to-speech (TTS) library or API to generate the spoken output.
