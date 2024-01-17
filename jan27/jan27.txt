@@ -1,0 +1,3 @@
+create a script that reads a text file and converts it to audio, 
+then separately, 
+it takes an audio file and transcribes it to text.
