@@ -1,3 +1,2 @@
-create a script that reads a text file and converts it to audio, 
-then separately, 
-it takes an audio file and transcribes it to text.
+Develop a more complex calculator 
+Implement a GUI if possible
