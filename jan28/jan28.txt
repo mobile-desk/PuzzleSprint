@@ -1,3 +1,1 @@
-Timer Challenge:
-
-Create a script for a simple timer. Users input a duration in seconds, and the timer counts down, displaying elapsed time. It stops gracefully if interrupted (Ctrl+C). Share your implementation and any added features. How user-friendly can you make it? Get creative and explore different approaches! ⏲🚀
+Write a program that prints the next 20 leap years.
